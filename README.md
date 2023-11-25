@@ -1,4 +1,5 @@
-# AG_Paper_2023
+# Investigation of Economics Impact of Climate Change on Agriculture in Iran: Spatial Spillovers Matter
+
 This GitHub repository hosts the code and data for the research paper titled "Investigation of the Economic Impact of Climate Change on Agriculture in Iran: Spatial Spillovers Matter."
 
 All data, including processed climatic data from AgERA5, are available here except the agricultural data that are not publicly available or climatic data that are very large in size (CMIP6 outcomes) to be shared. These data are available upon request. 
