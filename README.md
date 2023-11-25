@@ -35,8 +35,10 @@ The weighting matrices and .dta file are used as the inputs into the spatial pan
 
 *The final excel file of this step is included in the Data folder (`Impact_FinalResult_Ricardian.xlsx`).
 
-# Some additional scripts are included:
+### Some others scripts:
+
 a) some descriptive analysis of agricultural data: `Agriculture_descriptive_statistics.R`.
+
 b) the script to make correlation matrix of variables: `CorrelationMatrix.R`.
 
 For inquiries regarding data and model used in this study or any other questions, please contact malaekeh@utexas.edu. 
