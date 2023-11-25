@@ -6,6 +6,9 @@ All data, including processed climatic data from AgERA5, are available here exce
 
 The code scripts are written in MATLAB, STATA, and R. Note that you will need licenses for STATA and MATLAB to fully replicate the analysis. 
 
+
+## Replication Stages 
+
 There are five stages to our analysis:
 
 1. Extracting climatic variables from AgERA5 and aggregating to the county level. The MATLAB codes for this stage are “Code_NC_Iterator.m” and “Code_NC_AgrEra5.m”. The shape file used for this aggregation is available in data folder as “County.zip”. The raw data are downloaded from the Copernicus Climate Change Service (C3S) Climate Data Store: https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset. 
